@@ -12,10 +12,6 @@ Therefore, players who prefer the Til Death theme should install the new font ve
   Because of this limitation, the Help interface is not translated in the old font version.
   If you want to view the Etterna Help interface in Simplified Chinese, please install the new font version.
 
----
-
-For both versions:
-
 **How to use:**
 
 * It is recommended to back up your Etterna installation before use.
@@ -26,8 +22,6 @@ For both versions:
   *(Restarting is very important, otherwise a lot of garbled text may appear.)*
 
 * *Currently, the new font version is recommended, as the font loading speed has been greatly improved.*
-
----
 
 ## Common Issues
 
@@ -51,15 +45,9 @@ For both versions:
 
   Then reinstall the latest version of the translation.
 
----
-
 If you find translation errors or display bugs during testing, please report them in the QQ group: 1067405118
 
----
-
 [Video Tutorial (Chinese)](https://www.bilibili.com/video/BV17JrCB9ExH)
-
----
 
 You can click on my profile to see my Discord contact information, but I might not check private messages very often.
 
@@ -77,7 +65,6 @@ You can click on my profile to see my Discord contact information, but I might n
 - 旧字库有部分字无法使用，如“运适关响极种”，所以旧字库版的帮助界面不做翻译，
 如想查看Etterna帮助界面简中版，请安装新字库版。
 
----
 
 **使用方式：**
 
@@ -86,8 +73,6 @@ You can click on my profile to see my Discord contact information, but I might n
 - 打开游戏后，将语言切换为“szh”并重启游戏（重启非常重要，否则会出现很多乱码）即可。
 
 - *目前推荐安装新字库版，字库加载速度已得到极大提升。*
-
----
 
 **常见问题：**
 
@@ -112,9 +97,7 @@ You can click on my profile to see my Discord contact information, but I might n
 翻译由幽幽子的饲养员制作，新字库由度受行人制作。
 测试期间如有翻译错误或显示bug加Q群1067405118反馈。
 
----
 [视频教程(中文)]([baidu.com](https://www.bilibili.com/video/BV17JrCB9ExH)"Bilibili")
----
 
 前面忘了后面忘了，都来水群。
 
