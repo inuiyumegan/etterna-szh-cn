@@ -23,7 +23,7 @@ Therefore, players who prefer the Til Death theme should install the new font ve
 
 * *Currently, the new font version is recommended, as the font loading speed has been greatly improved.*
 
-## Common Issues
+** Common Issues**
 
 * Installing the Simplified Chinese translation will not overwrite Traditional Chinese, but the Fonts folder will be updated.
 
