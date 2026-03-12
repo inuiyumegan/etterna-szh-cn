@@ -44,7 +44,7 @@ Therefore, players who prefer the Til Death theme should install the new font ve
 ```
 
   Then reinstall the latest version of the translation.
-
+Translation by 幽幽子的饲养员(uuz). New font set by 度受行人(XingRen).
 If you find translation errors or display bugs during testing, please report them in the QQ group: 1067405118
 
 [Video Tutorial (Chinese)](https://www.bilibili.com/video/BV17JrCB9ExH)
@@ -97,8 +97,11 @@ You can click on my profile to see my Discord contact information, but I might n
 翻译由幽幽子的饲养员制作，新字库由度受行人制作。
 测试期间如有翻译错误或显示bug加Q群1067405118反馈。
 
-[视频教程(中文)]([baidu.com](https://www.bilibili.com/video/BV17JrCB9ExH)"Bilibili")
+[视频教程(中文)]((https://www.bilibili.com/video/BV17JrCB9ExH)"Bilibili")
 
 前面忘了后面忘了，都来水群。
+
+---
+[Etterna Simplified Chinese Localization / Etterna简中汉化](https://community.etternaonline.com/t/etterna-simplified-chinese-localization-etterna/3088)
 
 ——2026/3/12
